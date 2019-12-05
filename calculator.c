@@ -3,7 +3,7 @@ int main()
 {
 
 printf("Simple Calculator\n");
-float a, b;
+float a=10, b=2;
 float res;
 printf("Enter any two number\n");
 scanf("%f %f",&a,&b);
