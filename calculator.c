@@ -7,6 +7,7 @@ float a=10, b=2;
 float res;
 printf("Enter any two number\n");
 scanf("%f %f",&a,&b);
+printf("Entered Number is: %d and %d\n",a,b);
 res=a+b;
 printf("sum of two no is: %f\n", res);
 res=a-b;
