@@ -1,0 +1,62 @@
+#div1{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    height: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#h31{
+    text-align: left;
+    float: left;
+}
+
+#div2{
+    padding: 50px;
+    background-image: url("img2.jpg");
+    background-size: cover;
+    height: 700px;
+}
+
+#h41{
+    text-align: right;
+    float: right;
+    word-spacing: 5px;
+    font-weight: normal;
+}
+
+#s1{
+    font-size: 20px;
+}
+
+#s2{
+    font: bold;
+    font-size: 30px;
+}
+
+#s3{
+    display: block;
+    width: 50%;
+}
+
+#btn1{
+    padding: 5px;
+    border-radius: 20px;
+    height: 40px;
+    width: 150px;
+    color: green;
+    
+}
+
+#btn1:hover{
+    color: red;
+    transition-duration: 0.4s;
+}
+
+p{
+    margin-top: 10%;
+}
